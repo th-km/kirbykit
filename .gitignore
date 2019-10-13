@@ -1,0 +1,11 @@
+Icon
+.DS_Store
+.vscode
+node_modules
+/www/kirby
+/www/public/assets
+/www/public/media
+/www/storage/cache
+/www/storage/sessions
+/www/storage/accounts
+/www/vendor
