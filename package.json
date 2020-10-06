@@ -26,6 +26,6 @@
     "postcss-import": "^12.0.1",
     "postcss-nested": "^4.2.1",
     "purgecss-webpack-plugin": "^2.1.2",
-    "tailwindcss": "^1.2.0"
+    "tailwindcss": "^1.8.11"
   }
 }
